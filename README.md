@@ -1,2 +1,2 @@
 <h1> Encriptador de Texto </h1>
-  .Challenge Encriptador de texto
+  Challenge Encriptador de texto
